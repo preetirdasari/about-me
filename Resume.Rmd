@@ -1,0 +1,70 @@
+---
+title: "Preeti R. Dasari"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+View my [Linkedin Profile](https://www.linkedin.com/in/preetirdasari)
+
+### ABOUT ME
+
+
+I am skilled in consulting with corporate stakeholders and government officials. By launching business-to-government and business-to-business initiatives, I helped corporations drive their business goals and improve community relations. My curiosity to learn how statistical analysis can be used to design effective products for organizations led me to my pursuit of a Masters in Statistics at Baruch College, CUNY. By combining strategic thinking with quantitative analysis, I hope to work in a multidisciplinary role where I can provide solutions to create products and further business strategies.
+
+My email address is preetirdasari@gmail.com
+
+<br>
+
+#### EDUCATION
+
+**Zicklin School of Business, Baruch College, CUNY** | *MS in Statistics*	| August 2018 - May 2020                                 
+
+*	Relevant Coursework: Applied Econometrics, Foundations of Statistical Inference, Machine Learning for Data Mining, Multivariate Statistical Methods, Regression Analysis, Statistical Learning for Data Mining, Time Series and Forecasting
+
+<br>
+
+**Smith College** | *BA in Economics* | August 2013 – May 2017                      	                        
+
+*	Minor in Applied Statistics | Dean’s List 2015 – 2016 | Junior Year Abroad in Geneva, Switzerland 
+
+*	Admission Tour Guide, Chair of Campus Pool Committee, Head of New Students, Managing Editor of The Sophian
+
+<br>
+
+#### PROJECTS
+
+
+*[Classification Tree Analysis with Liver Patients Data](https://preetirdasari.github.io/MappingLiverDisease/)*: Identified variables that contribute most to liver diseases by building decision trees; reduced complexity of model and improved prediction by applying pruning and boosting methods; identified the top three predictors out of twelve
+
+
+*[Feature Engineering with Grammatical Facial Expressions](https://github.com/preetirdasari/gfe)*: Used image data on facial expressions to test the performance of various classification methods such as KNN, LDA, QDA and Random Forest; applied a for loop to calculate classification and cross validation error rates and built box plots to visualize the error rates; identified Random Forest as the efficient method for this data set by performance time and error rates; concluded that eyebrow lines and mouth are top indicators for identifying facial expression in an image
+
+
+*[Garch Analysis](https://preetirdasari.github.io/garch_analysis/)*: Gathered data on weekly gold prices from 1998 to 2019;  transformed data to achieve stationarity and analyzed autocorrelation and partial autocorrelation coefficients to check for ARCH efects; used Generalized ARCH model to forecast price volatility; increased efficiency of the model by identifying key dates that influenced prices and adjusted model to account for outlier shocks
+
+
+*[Voter Data - Shiny App](https://preetirdasari.shinyapps.io/CO_Voter_Reg/)*: Converted 2018 Colorado voter registration data from wide to long format using dplyr in R; built a Shiny App showing interactive box plots to display difference in party identification among voter groups; rendered tables for county, party and gender registration data subsets
+
+<br>
+
+
+#### SKILLS 
+ 
+
+* **Data Analysis**: Data Manipulation, Data Quality Checks, Forecasting, Statistical Inference, Supervised and Unsupervised Learning, Visualization
+
+*	**Databases**: Intermediate SQL, Proficient Raiser’s Edge
+
+*	**Languages**: French, Hindi and Telugu  
+
+*	**Tools**: Beginner Python and SAS, Proficient R
+
+<br>
+
+#### PROFESSIONAL AFFILIATIONS
+
+Mu Sigma Rho (National Statistics Honor Society) | 06/17 – Present
+
+Board Director, Smith College Club of New York (Membership and Events Committee) | 07/18 – Present
